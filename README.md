@@ -1,2 +1,2 @@
 # brain-dump
-A place where I dump random ideas
+A repo where I can safely share / gather feedback on random ideas.
