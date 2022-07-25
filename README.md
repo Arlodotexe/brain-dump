@@ -1,2 +1,4 @@
-# brain-dump
-A repo where I can openly share / gather feedback on random ideas.
+# Brain Dump
+New ideas come and go all the time. Let's save them, just in case.
+
+
